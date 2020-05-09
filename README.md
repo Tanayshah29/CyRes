@@ -3,8 +3,11 @@ CyRes is a publication manager - made as a one stop platform for any researcher 
 
 Some functionalities:
 
-Reference Management
-My Publications (for a user)
-Search for all papers in a university (Relational Database provided)
-Link
+1)Reference Management
+2)My Publications (for a user)
+3)Search for all papers in a university (Relational Database provided)
+
+
+Demo Link:
+
 https://www.youtube.com/watch?v=cTlet1Kz6Gc
