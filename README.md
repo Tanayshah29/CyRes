@@ -1,5 +1,5 @@
 # CyRes
-CyRes is a publication manager - made as a one stop platform for any researcher (especially at a particular university)
+CyRes is a publication management system that is made as a one-stop platform for any researcher (especially at a particular university) to retrieve, cite and refer papers i.e. assisting researchers in finding relevant papers of their interest and also keeping a systematic track of references.
 
 Some functionalities:
 
